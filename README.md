@@ -2,9 +2,9 @@
 **khapple/khapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1>Hi, I'm Kerry! <a href="https://www.linkedin.com/in/khapple">Cybersecurity Professional</a></h1>
+# Hi, I'm Kerry! [Cybersecurity Professional](https://www.linkedin.com/in/khapple) #
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## :man_technologist: Cybersecurity Projects: ##
 
 - <b>Kali Linux:</b>
   - [Install ARM based Kali Linux VM on Apple silicon Mac using UTM](https://github.com/khapple/KaliLinuxArmVM)
