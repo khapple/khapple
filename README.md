@@ -6,8 +6,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Install ARM based Kali Linux VM on Apple silicon Mac using UTM:</b>
-  - [placeholder](https://github.com/khapple/KaliLinuxArmVM)
+- <b>Kali Linux:</b>
+  - [Install ARM based Kali Linux VM on Apple silicon Mac using UTM](https://github.com/khapple/KaliLinuxArmVM)
 
 <h2>📃 Certifications:</h2>
 
